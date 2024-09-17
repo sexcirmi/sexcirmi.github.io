@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sexcirmi.github.io/sitemap.html.gz
+Sitemap: https://sexcirmi.github.io/app/sitemap.html.gz
+Sitemap: https://sexcirmi.github.io/assets/sitemap.html.gz
+Sitemap: https://sexcirmi.github.io/css/sitemap.html.gz
+Sitemap: https://sexcirmi.github.io/includes/sitemap.html.gz
+Sitemap: https://sexcirmi.github.io/item/sitemap.html.gz
+Sitemap: https://sexcirmi.github.io/src/sitemap.html.gz
